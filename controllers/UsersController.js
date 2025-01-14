@@ -37,9 +37,10 @@ class UsersController {
 			let client = await MongoClient.connect(url);
 			let dbo = client.db('webschool');
 			let userDeleted = await dbo.collection("users").findOneAndDelete({ id: parseInt(id) });
+			console.log(userDeleted)
 
-			if (userDeleted.value) {
-				res.status(200).json({ message: "User removed with success !", user: userDeleted.value })
+			if (userDeleted.id) {
+				res.status(200).json({ message: "User removed with success !", user: userDeleted.id })
 			}
 			else res.status(404).json({ message: "User not found !" })
 
