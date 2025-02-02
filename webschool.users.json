@@ -1,0 +1,220 @@
+[{
+  "_id": {
+    "$oid": "679f9d56ad33453420b08e1f"
+  },
+  "id": 1,
+  "name": "Zeev",
+  "email": "zeev@gmail.com",
+  "role": "dev",
+  "phone": "01782938490",
+  "is_available": false
+},
+{
+  "_id": {
+    "$oid": "679f9d56ad33453420b08e20"
+  },
+  "id": 2,
+  "name": "Aviva",
+  "email": "aviva@gmail.com",
+  "role": "designer",
+  "phone": "01782938491",
+  "is_available": true
+},
+{
+  "_id": {
+    "$oid": "679f9d56ad33453420b08e21"
+  },
+  "id": 3,
+  "name": "Lior",
+  "email": "lior@gmail.com",
+  "role": "project manager",
+  "phone": "01782938492",
+  "is_available": false
+},
+{
+  "_id": {
+    "$oid": "679f9d56ad33453420b08e22"
+  },
+  "id": 4,
+  "name": "Rivka",
+  "email": "rivka@gmail.com",
+  "role": "qa engineer",
+  "phone": "01782938493",
+  "is_available": true
+},
+{
+  "_id": {
+    "$oid": "679f9d56ad33453420b08e23"
+  },
+  "id": 5,
+  "name": "Noam",
+  "email": "noam@gmail.com",
+  "role": "devops",
+  "phone": "01782938494",
+  "is_available": true
+},
+{
+  "_id": {
+    "$oid": "679f9d56ad33453420b08e24"
+  },
+  "id": 6,
+  "name": "Yarden",
+  "email": "yarden@gmail.com",
+  "role": "frontend dev",
+  "phone": "01782938495",
+  "is_available": false
+},
+{
+  "_id": {
+    "$oid": "679f9d56ad33453420b08e25"
+  },
+  "id": 7,
+  "name": "Shira",
+  "email": "shira@gmail.com",
+  "role": "backend dev",
+  "phone": "01782938496",
+  "is_available": true
+},
+{
+  "_id": {
+    "$oid": "679f9d56ad33453420b08e26"
+  },
+  "id": 8,
+  "name": "Eitan",
+  "email": "eitan@gmail.com",
+  "role": "ux researcher",
+  "phone": "01782938497",
+  "is_available": true
+},
+{
+  "_id": {
+    "$oid": "679f9d56ad33453420b08e27"
+  },
+  "id": 9,
+  "name": "Tamar",
+  "email": "tamar@gmail.com",
+  "role": "fullstack dev",
+  "phone": "01782938498",
+  "is_available": false
+},
+{
+  "_id": {
+    "$oid": "679f9d56ad33453420b08e28"
+  },
+  "id": 10,
+  "name": "Daniel",
+  "email": "daniel@gmail.com",
+  "role": "product owner",
+  "phone": "01782938499",
+  "is_available": true
+},
+{
+  "_id": {
+    "$oid": "679f9d56ad33453420b08e29"
+  },
+  "id": 11,
+  "name": "Yael",
+  "email": "yael@gmail.com",
+  "role": "data scientist",
+  "phone": "01782938500",
+  "is_available": false
+},
+{
+  "_id": {
+    "$oid": "679f9d56ad33453420b08e2a"
+  },
+  "id": 12,
+  "name": "Yonatan",
+  "email": "yonatan@gmail.com",
+  "role": "ai engineer",
+  "phone": "01782938501",
+  "is_available": true
+},
+{
+  "_id": {
+    "$oid": "679f9d56ad33453420b08e2b"
+  },
+  "id": 13,
+  "name": "Michal",
+  "email": "michal@gmail.com",
+  "role": "qa automation",
+  "phone": "01782938502",
+  "is_available": true
+},
+{
+  "_id": {
+    "$oid": "679f9d56ad33453420b08e2c"
+  },
+  "id": 14,
+  "name": "Oren",
+  "email": "oren@gmail.com",
+  "role": "cto",
+  "phone": "01782938503",
+  "is_available": false
+},
+{
+  "_id": {
+    "$oid": "679f9d56ad33453420b08e2d"
+  },
+  "id": 15,
+  "name": "Gal",
+  "email": "gal@gmail.com",
+  "role": "system admin",
+  "phone": "01782938504",
+  "is_available": true
+},
+{
+  "_id": {
+    "$oid": "679f9d56ad33453420b08e2e"
+  },
+  "id": 16,
+  "name": "Dalia",
+  "email": "dalia@gmail.com",
+  "role": "marketing manager",
+  "phone": "01782938505",
+  "is_available": false
+},
+{
+  "_id": {
+    "$oid": "679f9d56ad33453420b08e2f"
+  },
+  "id": 17,
+  "name": "Moshe",
+  "email": "moshe@gmail.com",
+  "role": "content writer",
+  "phone": "01782938506",
+  "is_available": true
+},
+{
+  "_id": {
+    "$oid": "679f9d56ad33453420b08e30"
+  },
+  "id": 18,
+  "name": "Ronen",
+  "email": "ronen@gmail.com",
+  "role": "cloud architect",
+  "phone": "01782938507",
+  "is_available": false
+},
+{
+  "_id": {
+    "$oid": "679f9d56ad33453420b08e31"
+  },
+  "id": 19,
+  "name": "Lea",
+  "email": "lea@gmail.com",
+  "role": "scrum master",
+  "phone": "01782938508",
+  "is_available": true
+},
+{
+  "_id": {
+    "$oid": "679f9d56ad33453420b08e32"
+  },
+  "id": 20,
+  "name": "Boaz",
+  "email": "boaz@gmail.com",
+  "role": "data engineer",
+  "phone": "01782938509",
+  "is_available": true
+}]
